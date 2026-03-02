@@ -1,2 +1,3 @@
-# Ola Mundo
-Primeiro repositorio do curso git
+# Olá, Mundo
+Primeiro repositorio do curso git   
+guanabara
